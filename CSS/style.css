@@ -1,0 +1,38 @@
+.nagivation-bar{
+    background-color: #93BFCF;    
+}
+
+.icon{
+    width: 60px;
+    padding-left: auto;
+    padding-right: 1rem;
+}
+
+.template{
+    background-color: #EEE9DA;
+    background-image: url('../images/bg-img.jpg');  
+    padding: 5%;
+}
+
+.search-btn{
+    color: rgba(0, 0, 0, 0.65);
+    border-color: rgba(0, 0, 0, 0.65);
+}
+
+.search-btn:hover{
+    border-color: rgba(0, 0, 0, 0.65);
+    background-color: rgba(0, 0, 0, 0.30);
+}
+
+body{
+    font-family: "Ubuntu" , "serif";
+}
+
+
+.table-headers{
+    width: 9%;
+}
+
+.card-header{
+    background-color: #93BFCF
+}
